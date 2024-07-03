@@ -1,4 +1,4 @@
-The Basic Folder contains some basic beginner C programs such as -----------------------:
+The Basic Folder contains some basic beginner C programs such as -----------------------??????????????????????????????:
 
 C Hello World Program
 
@@ -36,7 +36,7 @@ C Program to Check Whether a Number is Positive, Negative, or Zero
 
 C Program to Check Whether Number is Even or Odd
 
-C Program to Check Whether a Character is Vowel or Consonant 
+C Program to Check Whether a Character is a Vowel or Consonant 
 
 C Program to Find Largest Number Among Three Numbers
 
@@ -75,5 +75,25 @@ C Program to Check whether the input number is a Neon Number
 C Program to Find All Factors of a Natural Number
 
 C program to sum Fibonacci Numbers at Even Indexes up to N Terms 
+
+
+3) Conversion folder contains -----------------------------------------------------?????????>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+C Program For Boolean to String Conversion 
+C Program For Float to String Conversion
+C Program For Double to String Conversion 
+C Program For String to Long Conversion
+C Program for Long-to-String Conversion
+C Program For Int to Char Conversion 
+C Program For Char to Int Conversion 
+C Program For Octal to Decimal Conversion 
+C Program For Decimal to Octal Conversion
+C Program For Hexadecimal to Decimal Conversion 
+C Program For Decimal to Hexadecimal Conversion 
+C Program For Decimal to Binary Conversion 
+C Program For Binary to Decimal Conversion
+
+
+
 
 
